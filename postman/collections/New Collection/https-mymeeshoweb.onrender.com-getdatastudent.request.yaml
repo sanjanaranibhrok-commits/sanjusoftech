@@ -1,0 +1,6 @@
+$kind: http-request
+name: https://mymeeshoweb.onrender.com/getdatastudent
+description: ""
+url: https://mymeeshoweb.onrender.com/getdatastudent
+method: GET
+order: 1790690026590
