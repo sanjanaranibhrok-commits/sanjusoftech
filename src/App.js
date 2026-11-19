@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
 
-import Dashboard from "./Dashboard";
+import Dashboard from "./Dashboard";//new dashboard
 import Teachers from "./Teachers";
 import Students from "./Students";
 import Courses from "./Courses";
